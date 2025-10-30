@@ -1,15 +1,21 @@
 ---
 permalink: /
-title: "Bin Huang"
+title: "Bin Huang 黄 斌"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+I am Bin Huang, an incoming Research Associate at Case Western Reserve University, where I will be advised by Prof. Shuo Li.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I received my B.S., M.S., and Ph.D. degrees in Biomedical Engineering from Shenzhen University. During my doctoral studies, I was very fortunate to be supervised by Prof. Bingsheng Huang and Prof. Xin Chen (Dean).
+
+My research interests focus on medical image processing. I am particularly interested in tackling challenges related to model generalization, interpretability, and causal inference in medical AI. My research also involves novel imaging modalities, such as magneto-acousto-electrical tomography (MAET).
+
+I have published over ten first-author papers in top-tier journals, including IEEE Transactions on Medical Imaging (TMI) and IEEE Journal of Biomedical and Health Informatics (JBHI), and at leading international conferences like MICCAI.
+
+I also actively serve the academic community as a reviewer for international journals, including Nature Communications, Medical Physics, and iScience.
 
 A data-driven personal website
 ======
