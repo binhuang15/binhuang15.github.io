@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Bin Huang 黄斌"
+title: "Bin Huang"
 author_profile: true
 redirect_from: 
   - /about/
