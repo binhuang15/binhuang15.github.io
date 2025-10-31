@@ -11,35 +11,24 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Biomedical Engineering, Shenzhen University, 2025
+* M.S. in Biomedical Engineering, Shenzhen University, 2020
+* B.S. in Biomedical Engineering, Shenzhen University, 2017
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2018: Algorithm Intern
+  * Ping An Technology (Shenzhen) Co., Ltd.
+  * Duties includes: Thyroid nodules detection and classification on ultrasound image
+  * Supervisor: Lingyun Huang
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Skill Latex
+* Skill Programming
+  * Sub-skill Python
+  * Sub-skill Java
+  * Sub-skill C++
 
 Publications
 ======
