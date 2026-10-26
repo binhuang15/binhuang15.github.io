@@ -7,12 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-I am Bin Huang, an incoming Research Associate at Case Western Reserve University, where I will be advised by Prof. Shuo Li.
+I am Bin Huang, a Research Associate at Case Western Reserve University, working with Prof. Shuo Li.
 
-I received my B.S., M.S., and Ph.D. degrees in Biomedical Engineering from Shenzhen University. During my doctoral studies, I was very fortunate to be supervised by Prof. Bingsheng Huang and Prof. Xin Chen (Dean).
+I received my B.Eng., M.Eng., and Ph.D. degrees in Biomedical Engineering from the School of Biomedical Engineering, Shenzhen University. During my doctoral studies, I was very fortunate to be supervised by Prof. Xin Chen (Dean) and Prof. Bingsheng Huang. From 2021 to 2022, I was a visiting scholar at the University of Hong Kong with Prof. Shing-Chow Chan.
 
-My research interests focus on medical image processing. I am particularly interested in tackling challenges related to model generalization, interpretability, and causal inference in medical AI. My research also involves novel imaging modalities, such as magneto-acousto-electrical tomography (MAET).
+My research focuses on medical image analysis, in particular:
+* Model generalizability and interpretability, including uncertainty estimation for foundation models such as the Segment Anything Model (SAM);
+* Magneto-acousto-electrical tomography (MAET) reconstruction and conductivity imaging;
+* AI-assisted diagnosis and therapy for nasopharyngeal carcinoma and liver disease;
+* Segmentation, classification, registration, and image generation for medical images.
 
-I have published over ten first-author papers in top-tier journals, including IEEE Transactions on Medical Imaging (TMI) and IEEE Journal of Biomedical and Health Informatics (JBHI), and at leading international conferences like MICCAI.
+I have published first-author and co-first-author papers in journals including IEEE Transactions on Medical Imaging (TMI) and IEEE Journal of Biomedical and Health Informatics (JBHI), and at leading conferences such as MICCAI. See [Publications](/publications/) for the full list.
 
 I also actively serve the academic community as a reviewer for international journals, including Nature Communications, Medical Physics, and iScience.
